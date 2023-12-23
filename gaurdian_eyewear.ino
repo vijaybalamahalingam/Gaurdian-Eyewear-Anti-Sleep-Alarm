@@ -1,3 +1,4 @@
+/* THE BELOW CODE IS A C++ CODE TO BE EXECUTED IN THE ARDUINO IDE */
 #defne Relay 13
 #defne buzzer A0
 statc const int sensoriin 10; // sensor input pin
