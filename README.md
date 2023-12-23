@@ -1,4 +1,4 @@
-# Gaurdian Eyewear: Anti-Sleep-Alarm
+# GUARDIAN EYEWEAR: Anti-Sleep Alarm
 
 # Introduction
 In today's fast-paced world, staying active throughout the day can be challenging. Consider a scenario where a person, exhausted after a long day at work, is driving home. Despite keeping hands on the wheel and foot on the pedal, drowsiness creeps in. Eyes start shutting, vision blurs, and before realizing it, the person falls asleep at the wheel. Such instances lead to severe consequences, risking accidents and lives. Addressing this issue is critical, and hence, the Driver Anti-Sleep Device comes into play. This system alerts users when they begin to doze off while driving, preventing accidents and potentially saving lives. It proves especially beneficial for long-distance travelers and late-night drivers.
